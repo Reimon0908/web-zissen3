@@ -295,7 +295,7 @@ h3 {
 }
 .haguruma {
   height: 300px;
-  width: 940px;
+  width: 900px;
   margin-left: 960px;
   background-image: url(recruit.jpg);
   background-size: cover;
@@ -320,7 +320,7 @@ h3 {
 .faq {
   background-color: black;
   color: white;
-  width: 1500px;
+  width: 1300px;
   height: 150px;
   position: absolute;
   top: 800px;
@@ -380,13 +380,15 @@ h4 {
   padding-left: 25px;
 }
 .sirowaku {
-  width: 160px;
+  width: 170px;
   height: 40px;
+  text-align: center;
   border: 1px solid;
   border-color: white;
-  position: relative;
+position: relative;
   top: 400px;
   left: 860px;
+
 }
 .footer {
   background-color: black;
