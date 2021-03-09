@@ -49,13 +49,22 @@ time, mark, audio, video {
  background-position:center bottom;
  background-image: url(eyecatch.jpg);
  background-size:cover;
+ position: relative;
 }
 #mainA p{
 top:50%;
 left:200px;
 font-size:50px;
-position:relative;
+position:absolute;
 color:white;
+
+}
+.news {
+ display:flex;
+ position:absolute;
+ right:0;
+ bottom:0;
+
 
 }
 
@@ -63,9 +72,6 @@ color:white;
   background:white;
   height:80px;
   width: 800px;
-  position: relative;
-  bottom:50px;
-  left:900px;
 }
 
 .siro p {
@@ -78,9 +84,7 @@ color:white;
   background: black;
   height:60px;
   width: 200px;
-  position:relative;
-  bottom:130px;
-  left:1700px;
+  line-height:80px;
 
 }
 
