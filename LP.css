@@ -185,7 +185,7 @@ h2 {
 #mainB img {
   position: relative;
   top: 90px;
-  left: 1000px;
+  left: 55%;
 }
 
 .mainC {
@@ -212,7 +212,7 @@ h3 {
   width: 750px;
   position: absolute;
   top: 200px;
-  left: 400px;
+  left: 20%;
 }
 .pa {
   font-weight: 900;
@@ -293,10 +293,15 @@ h3 {
   left: 350px;
   font-weight: 600;
 }
+.hagurumaa{
+ 
+
+
+}
 .haguruma {
   height: 300px;
   width: 900px;
-  margin-left: 960px;
+  float:right;
   background-image: url(recruit.jpg);
   background-size: cover;
 }
@@ -385,9 +390,9 @@ h4 {
   text-align: center;
   border: 1px solid;
   border-color: white;
-position: relative;
+  position: relative;
   top: 400px;
-  left: 860px;
+  left: 45%;
 
 }
 .footer {
