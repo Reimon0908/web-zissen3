@@ -187,9 +187,9 @@ h2 {
   left: 20px;
 }
 #mainB img {
-  position: relative;
+  position: absolute;
   top: 30%;
-  left: 55%;
+  right: 1%;
 }
 
 .mainC {
@@ -318,6 +318,7 @@ h3 {
   top: 100px;
   left: 40%;
   font-weight: 700;
+  width:20%;
 }
 .saiyou {
   font-size: 20px;
@@ -325,6 +326,7 @@ h3 {
   top: 110px;
   left: 43%;
   font-weight: 600;
+  width:20%;
 }
 .faq {
   background-color: black;
@@ -378,6 +380,7 @@ h4 {
 .pi {
   color: white;
   font-size: 15px;
+  width:80%;
   position: relative;
   top: 350px;
   left: 350px;
@@ -428,4 +431,8 @@ h4 {
   font-size: 15px;
   text-align: center;
   color: white;
+}
+*{
+outline: 1px solid red  !important;
+color:red !important;
 }
