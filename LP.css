@@ -76,9 +76,11 @@ video {
   background: transparent;
 }
 .header {
+   width: 100%;
   background-color: black;
   color: white;
   height: 70px;
+ 
 }
 .header-wrap {
   display: flex;
@@ -103,6 +105,7 @@ video {
 }
 #mainA {
   height: 800px;
+  width:100%;
   background-position: center bottom;
   background-image: url(eyecatch.jpg);
   background-size: cover;
@@ -158,9 +161,10 @@ video {
 h2 {
   color: white;
   font-size: 30px;
+  width:60%;
   position: relative;
-  top: 200px;
-  left: 300px;
+  bottom:300px;
+  left:300px;
 }
 .gure-pu {
   color: white;
@@ -174,7 +178,7 @@ h2 {
   height: 35px;
   width: 160px;
   position: relative;
-  top: 350px;
+  bottom:100px;
   left: 300px;
 }
 .mission p {
@@ -184,7 +188,7 @@ h2 {
 }
 #mainB img {
   position: relative;
-  top: 90px;
+  top: 30%;
   left: 55%;
 }
 
@@ -209,7 +213,7 @@ h3 {
 .siroB {
   background-color: white;
   height: 350px;
-  width: 750px;
+  width: 40%;
   position: absolute;
   top: 200px;
   left: 20%;
@@ -273,7 +277,7 @@ h3 {
   position: relative;
   top: 300px;
   height: 300px;
-  width: 890px;
+  width: 45%;
   background-image: url(company.jpeg);
   background-size: cover;
 }
@@ -282,7 +286,7 @@ h3 {
   color: white;
   position: absolute;
   top: 100px;
-  left: 300px;
+  left: 35%;
   font-weight: 700;
 }
 .company {
@@ -290,7 +294,7 @@ h3 {
   color: white;
   position: absolute;
   top: 160px;
-  left: 350px;
+  left: 40%;
   font-weight: 600;
 }
 .hagurumaa{
@@ -300,7 +304,7 @@ h3 {
 }
 .haguruma {
   height: 300px;
-  width: 900px;
+  width: 45%;
   float:right;
   background-image: url(recruit.jpg);
   background-size: cover;
@@ -312,24 +316,24 @@ h3 {
   font-size: 40px;
   position: relative;
   top: 100px;
-  left: 400px;
+  left: 40%;
   font-weight: 700;
 }
 .saiyou {
   font-size: 20px;
   position: relative;
   top: 110px;
-  left: 430px;
+  left: 43%;
   font-weight: 600;
 }
 .faq {
   background-color: black;
   color: white;
-  width: 1300px;
+  width: 70%;
   height: 150px;
   position: absolute;
   top: 800px;
-  left: 200px;
+  left: 15%;
 }
 .pg {
   font-size: 40px;
