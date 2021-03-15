@@ -267,7 +267,7 @@ h3 {
   height: 350px;
   width: 750px;
   position: absolute;
-  left: 700px;
+  left: 25%;
 }
 .mainD {
   height: 1300px;
@@ -383,7 +383,7 @@ h4 {
   width:80%;
   position: relative;
   top: 350px;
-  left: 350px;
+  left: 15%;
 }
 .pk {
   color: white;
@@ -433,6 +433,7 @@ h4 {
   color: white;
 }
 *{
-outline: 1px solid red  !important;
+<!- outline: 1px solid red  !important; ->
 color:red !important;
+->
 }
