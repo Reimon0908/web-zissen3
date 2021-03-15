@@ -113,7 +113,7 @@ video {
 }
 #mainA p {
   top: 50%;
-  left: 200px;
+  left: 300px;
   font-size: 50px;
   position: absolute;
   color: white;
@@ -162,7 +162,7 @@ h2 {
   color: white;
   font-size: 30px;
   width:60%;
-  position: relative;
+  position: absolute;
   bottom:300px;
   left:300px;
 }
@@ -177,7 +177,7 @@ h2 {
   background-color: white;
   height: 35px;
   width: 160px;
-  position: relative;
+  position: absolute;
   bottom:100px;
   left: 300px;
 }
