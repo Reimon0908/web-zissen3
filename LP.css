@@ -122,7 +122,7 @@ video {
   display: flex;
   position: absolute;
   right: 0;
-  bottom: 0;
+  bottom: 150px;
 }
 
 .siro {
@@ -133,8 +133,8 @@ video {
 
 .siro p {
   color: black;
-  font-size: 12px;
-  padding-left: 5px;
+  font-size: 14px;
+  padding-left: 0px;
 }
 .kuro {
   background: black;
@@ -433,7 +433,7 @@ h4 {
   color: white;
 }
 *{
-<!- outline: 1px solid red  !important; ->
+ <!- outline: 1px solid red  !important; ->
 color:red !important;
 ->
 }
