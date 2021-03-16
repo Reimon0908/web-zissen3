@@ -111,18 +111,18 @@ video {
   background-size: cover;
   position: relative;
 }
-#mainA p {
-  top: 50%;
-  left: 300px;
-  font-size: 50px;
-  position: absolute;
+.mainA p {
+  top:50%;
+  left:300px;
+  font-size:50px;
+  position:absolute;
   color: white;
 }
 .news {
-  display: flex;
+  display:flex;
   position: absolute;
   right: 0;
-  bottom: 150px;
+  bottom: 140px;
 }
 
 .siro {
@@ -138,17 +138,17 @@ video {
 }
 .kuro {
   background: black;
-  height: 60px;
+  height: 80px;
   width: 200px;
   line-height: 80px;
 }
 
 .kuro p {
   color: white;
-  font-size: 15px;
-  padding: 15px;
+  font-size: 16px;
+  padding: 0px;
   padding-left: 60px;
-  position: absolute;
+
 }
 
 #mainB {
